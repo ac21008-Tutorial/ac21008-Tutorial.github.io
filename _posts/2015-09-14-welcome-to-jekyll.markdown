@@ -16,7 +16,7 @@ Michael Stevens: Java programming
 
 Robert Tully: Java programming
 
-Radu Birgauan: Writing the blog post, a try to glue the GUI and the java program.
+Radu Birgauan: Writing the blog post, a try to glue together the GUI and the java program.
 
 Joseph Abudar: Writing of report 
 
