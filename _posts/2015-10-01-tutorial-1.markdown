@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2015-10-01
+title: "Tutorial 1"
+---
+
+1. We believe our week was alright, considering we had all only just met each other for the first time.
+2. The dynamic was good, but we need to improve in terms of communication.
+3. With additional time, we would have completed the program as well as add a few small features we had in mind.
+4. The GUI is disorganised, split across disparate classes, while the database lacks proper error handling.
+5. Members of this group know the following languages:
+
+- C
+- Java
+- Scala
+- Kotlin
+- Assembler
+- C#
+- Ruby
+- Python
+
+6. Members of this group know of the following data structures:
+
+- Lists
+- Stacks
+- Linked Lists
+- Doubly-Linked Lists
+- Hash Tables
+- Binary Trees
+- Arrays
+- Vectors
+
+7. Most of the group like to program as it allows them to manipulate what the computer does as well as shape the
+"virtual" world. We look forward to learning C++ in particular.
+8. Our group is concerned about our communication and thus ability to keep to deadlines.
+
+*Written by Eriksson Jeny, typed up by Robert Tully*
