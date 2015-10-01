@@ -30,4 +30,4 @@ title: "Tutorial 1"
 "virtual" world. We look forward to learning C++ in particular.
 8. Our group is concerned about our communication and thus ability to keep to deadlines.
 
-*Written by Eriksson Jeny, typed up by Robert Tully*
+*Written by Erik Jeny, typed up by Robert Tully*

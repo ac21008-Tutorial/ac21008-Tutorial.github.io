@@ -1,7 +1,7 @@
 # Site settings
 title: AC21008 Tutorial Blog
 description: > # this means to ignore newlines until "baseurl:"
-  The tutorial blog of Eriksson Jeny, Michael Stevens, Radu Birgauan, Joseph Abudar and Robert Tully
+  The tutorial blog of Erik Jeny, Michael Stevens, Radu Birgauan, Joseph Abudar and Robert Tully
   for the University of Dundee AC21008 (Multi-paradigm programming and data structures) module.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ac21008-tutorial.github.io/" # the base hostname & protocol for your site
