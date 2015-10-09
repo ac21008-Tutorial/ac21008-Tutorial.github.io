@@ -1,0 +1,24 @@
+---
+layout: post
+date: 2015-10-09
+title: "Tutorial 2"
+---
+
+1. The lab was alright in terms of difficulty. It wasn't too hard or too easy.
+2. There wasn't many significant differences in answers; the only difference between answers appeared when we had to
+program the diamond shape, where some programmed it immediately as a diamond while others divided it into two pyramid
+shapes.
+3. We believe we had enough time to do the lab and therefore wouldn't have changed our answers much.
+4. A particular part of the course I'm interested in learning more about is different data structures and their
+differences between languages.
+5. The only thing that slightly scares me is memory allocation in C later on.
+6. The Hello World program is pretty simple across languages; C++ is not much different from C, Java or Python.
+7. In C++ we're currently using arrows to direct the stream, but we could use C's `printf()` call. In Java, we use
+`println()` generally.
+8. Declaring variables is the same as anywhere else and constants aren't any different.
+9. I/O is a bit different with cin/cout, where they can accept any kind of input no matter the data type, while other
+languages would need a type cast.
+10. Looks are delcared and functions work like in C, Java and Python.
+11. Nothing in the lectures so far has surprised me.
+
+*Written by Erik Jeny, typed up by Robert Tully*
