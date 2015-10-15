@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2015-10-15
+title: "Tutorial 3"
+---
+
+1. (reminder on the sheet)
+2. Macros are slightly difficult to grasp at first, due to the time they're applied during compilation.
+3. Java has no direct equivalent, though something similar can be made using annotations that are processed at build time.
+4. Java's arrays are very similar, but C++ arrays are more direct to the hardware.
+5. Easy enough to grasp, it's only a region in memory.
+6. Vectors are dynamic length, while arrays are fixed length. This makes arrays slightly faster. Where with arrays you use
+indexing (e.g. `array[0]`), the vector uses a method call (`vector.at(int)`).
+7. When you need the length to be variable.
+8. It was tricky, but more because of the problem than the code itself.
+9. Most of the code was similar, except one method processed to the top and bottom halves seperately, while another did it
+all in a single loop.
+10. We're not sure - one divides the work, but the other only uses a single loop.
+11. One method was more concise, but other than that they delivered the same results.
+12. Not really, no.
+13. Object orientation is also explored in the IT Project course
+14. I'm not entirely sure, yet. C++ is lower level than the web development of IT Project.
