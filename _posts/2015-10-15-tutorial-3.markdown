@@ -20,3 +20,5 @@ all in a single loop.
 12. Not really, no.
 13. Object orientation is also explored in the IT Project course
 14. I'm not entirely sure, yet. C++ is lower level than the web development of IT Project.
+
+_Written by Robert Tully_
