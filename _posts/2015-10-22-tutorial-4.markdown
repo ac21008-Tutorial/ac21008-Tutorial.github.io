@@ -1,0 +1,42 @@
+---
+layout: post
+date: 2015-10-22
+title: "Tutorial 4"
+---
+
+1.	Strings in c++ allow user defined operators which other languages don’t, more specifically Java. Also  c++ strings is an array of characters instead of a built in class
+2.	i. Size: returns the number of characters representing that string
+	ii. Clear: Creates an empty string; 0 characters
+	iii. Capacity: Set string size, can allocate extra space
+	iv. Empty: Tells user if the string is empty or not, returns true of false
+	v. +: Used to concatenate strings together
+	vi. +=: Append characters to the end of the string
+	vii. ==: Used to compare if a string is equal to another string
+	viii. Compare: Compares two strings by its characters
+	ix. Assign: Replaces current value to a new one
+	x. Swap: Swaps two string values
+	xi. Find: Searches string until condition is met
+	xii. find_first_of: Searches string until first character is found
+	xiii. find_first_not_of: Searches string until first character that does not match is found
+	xiv. find_last_of: Searches string until last character is found that matches
+	xv. find_last_not_of: Searches string until finds the last character that does not match
+	xvi. Insert: Used to insert more characters into the string
+	xvii. Erase: Delete specific characters in string
+	xviii. Replace: Replace specific characters in string
+3.	Use stringstreams to read strings and input data into them, uses string buffer, used to manipulate strings
+4.	A class defines an object; class contains attributes and functions. A class cannot do anything on its own. That is where objects come in. You create an object which inherits the class’s attributes and methods.  For example a class named Person is created; next create an object called Fred which inherits the class Person attributes and methods.
+5.	Constructor is used to build objects, you can define an objects attributes using a constructor. Destructor is used to destroy objects, opposite of a constructor
+6.	Used when you are using variables that are above your current scope, points to the current instance
+7.	Java is more OOP based as you cannot run any code without declaring classes and objects whereas in c++ you can run code purely from the main() without creating objects
+8.	Group understood all concepts and did not struggle to grasp any of them
+9.	Harder to implement compared to other data structures  
+10.	Found the concept of hash tables a bit more difficult to comprehend compared to data structures like arrays and lists
+11.	All hashtables contents are accessible by using a key; vectors are different as you need to know which position the object you want exists. Both can store an array of objects
+12.	Use hashtables for better data organisation and data retrieval, as stated above is is easier to find a specific object
+13.	When not all the memory allocated is used
+14.	Learning a new language is hard but I found the assignment to be manageable 
+15.	Only problem is getting used to transitioning from Windows to Linux
+16.	The use of Linux and managing data, for example working on database assignment and scripts to manage data
+17.	Programming in c languages and using Linux
+
+_Written by Michael Stevens_
