@@ -1,0 +1,49 @@
+---
+layout: post
+date: 2015-10-29
+title: "Tutorial 5"
+---
+
+1.Explain the 3 cornerstones of OOP?
+	 Data Abstraction, Polymorphism and Inheritence
+2.What is inheritance in C++?
+	
+3.Compare and contrast inheritance in C++ with inheritance in JAVA.
+
+4.What do these concepts means in relation to inheritance in C++:
+
+(I)Overloading,
+
+(II)Overiding
+
+5.Compare and contrast reading and writing to files in C++ with doing the same in JAVA
+
+6.There are 6 control modes you can use when creating a filestream object. What are
+they?
+
+7.Explain how you use the get() and getline() functions to read from a file.
+
+8.Explain the following types of errors.
+
+(I)Syntax errors
+	An error that involves the misspelling or deletion of appropriate syntax.
+(II)Logic errors
+	An error that will go unnoticed by the complier but will give unexpected result.
+(III)Exception errors
+	an error that causes a program to abort and may therefore return the user to the operating 	system.
+9.Explain when and how you would use try-catch blocks in C++?
+
+10.How does try catch in C++ compare to the same concept in JAVA?
+11.Explain all the types of exceptions that the stdexcept library describes.
+			Last week Data Structures:
+12. We looked at Open Addressed hash tables. Compare and contrast Open Addressed Hash tables with chained ones.
+				Other courses:
+13.How does what you have learnt in other courses this week relate to this course?
+
+14.What relations can you see arising in the coming week?
+				Last weeks lab:
+15.How did you find the assignment?
+	OK
+16. Discuss with your group your different answers
+
+_Written by Joseph_
